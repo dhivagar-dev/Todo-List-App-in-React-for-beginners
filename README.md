@@ -19,7 +19,7 @@ A modern **React** application for managing tasks with features like adding, edi
 
 ### Task List View
 
-[alt text](image.png)
+![alt text](image.png)
 
 ### Add/Edit Task Modal
 
@@ -53,4 +53,5 @@ Technologies Used
 
 
 ```
+
 
